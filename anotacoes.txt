@@ -1,0 +1,9 @@
+O que o styled-components ajuda/resolve na aplicação?
+primeiro instale os types dele que vem em um pacote a parte
+npm i @types/styled-components -D
+
+Com os class modules apesar de ter o escopo css, eu teria que pra variacoes criar diversas classes pra alcansar o resultado o que tornaria o codigo simples porem conforme aumentar o numero de variantes eu aumentaria o numero de classes
+
+ja com o styled components apesar de dificultar bastante o codigo podemos fazer interpolacao e criar nossas condicionais de variantes como se estivessemos escrevendo um codigo js assim proporcionando uma melhora.
+
+Nos podemos sobreescrever as tipagens do styled-components para o intelissense ajudar nos na hora de codar
